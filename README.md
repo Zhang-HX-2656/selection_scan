@@ -33,4 +33,3 @@ perl 3_cal.seg.swd.step.pop.pl <segment_name> <chr> <start> <end> <window> <step
 perl 4_cal.gene.pop.pl <up_length> <down_length> <output>
 python3 haplotype_analysis.py
 
-
